@@ -36,21 +36,69 @@ author:
       title: Software Architect
       started: 2014
       duration: (2014 - Present)
-      description:
+      description: "Development and improvement of Fintonic architecture.</br>
+                   Analysis, design and implementation of software solutions.</br>
+                   Maintenance and support of software.</br>
+                   Thanks to my passing through Fintonic I have acquired the following attitudes in the next technologies:</br>
+                   <ul>
+                   <li>Development in Java J2EE and Scala.</li>
+                   <li>Frameworks: Spring Cloud, Spring Boot, Spring Core, Spring Security, Spring MVC, Spring AMQP, Spring Data, Spring Aspect, Apache Thrift, Hibernate, MyBatis, AngularJS, Bootstrap and Jquery.</li>
+                   <li>IDE: Eclipse STS and Intellij.</li>
+                   <li>Testing: JUnit, Mockito and JMeter.</li>
+                   <li>Application servers: Tomcat and Jetty.</li>
+                   <li>RDBMS: Mysql.</li>
+                   <li>Messaging system: RabbitMQ.</li>
+                   <li>Cloud Services: Amazon EC2 and Amazon CloudWatch.</li>
+                   <li>NoSQL: MongoDB.</li>
+                   <li>Big Data Tools: Apache Spark, Logstash, Elasticsearch and Kibana.</li>
+                   <li>Continuous integration and software quality: Jenkins and Sonar.</li>
+                   <li>Repositories: Apache Maven, Artifactory, SVN and Git.</li>
+                   <li>Other tools: Web Services (SOA and REST), Drools, Solr, JSP, JSTL, Javascript, JAX-WS, JAXB, Javascript and Agile Methodologies.</li>
+                    </ul>"
     - work2:
       company: Profile Software Service S.L.
       location: Madrid, Spain
       title: Senior Software Engineer
       started: 2013
       duration: (2013 - 2014)
-      description:
+      description: "Analysis, design and implementation of software solutions.</br>
+                    Maintenance and support of software.</br>
+                    The principal client was Mutua Madrileña</br>
+                    Thanks to my passing through Profile I have acquired the following attitudes in the next technologies:</br>
+                    <ul>
+                    <li>Development in Java J2EE.</li>
+                    <li>Frameworks: Spring Core, Spring Security, Spring MVC, Spring Data, Hibernate, DWR and Jquery.</li>
+                    <li>IDE: Rational Software 8.</li>
+                    <li>Testing: JUnit, Mantis and JMeter.</li>
+                    <li>Application servers: Websphere 8.</li>
+                    <li>RDBMS: DB2 i 7.</li>
+                    <li>Continuous integration and software quality: Jenkins and Sonar.</li>
+                    <li>Repositories: Apache Maven and SVN.</li>
+                    <li>Other tools: Web Services (SOA and REST), JSP, JSTL, UML, WebSphere eXtreme Scale, Javascript, LDAP, JAX-WS, JAXB, Javascript and Agile Methodologies.</li>
+                    </ul>"
     - work3:
       company: Gloin S.L.
       location: Cáceres, Spain
       title: Java Developer
       started: 2011
       duration: (2011 - 2013)
-      description:
+      description: "Analysis, design and implementation of software solutions.</br>
+                   Maintenance and support of software.</br>
+                   The clients were SGAE, LatinNet, Indra and University of Extremadura.</br>
+                   Thanks to my passing through Gloin SL I have acquired the following attitudes in the next technologies:</br>
+                    <ul>
+                   <li>Development in Java J2EE.</li>
+                   <li>Frameworks: Spring Core, Spring Security, Spring MVC, Spring Data, Spring AMQP, Hibernate and Apache CXF.</li>
+                   <li>Testing: JUnit, Mantis and JMeter.</li>
+                   <li>Application servers: Apache Tomcat, and Jboss.</li>
+                   <li>RDBMS: Oracle Database 11g, 12g and MySQL.</li>
+                   <li>Messaging system: HornetQ.</li>
+                   <li>Continuous integration and software quality: Jenkins and Sonar.</li>
+                   <li>Repositories: Apache Maven, SVN and Git.</li>
+                   <li>Android: Spring for Android, Google Cloud Messaging, ActionBarSherlock and SlidingMenu.</li>
+                   <li>Cloud Computing, knowledge of platforms Amazon, Google and Microsoft.</li>
+                   <li>Other tools: BPMN, Web Services (SOA and REST), JMS, XML, Lucene, JSP, JSTL, Swing, UML and Agile methodologies.</li>
+                   </ul>"
   educationHistory:
     - education1:
       organization: Extremadura University
@@ -79,7 +127,7 @@ author:
       percentage: 80%
     - skill4:
       name: AngularJS
-      percentage: 70%
+      percentage: 75%
     - skill5:
       name: Scala
       percentage: 60%
