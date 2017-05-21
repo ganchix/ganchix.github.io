@@ -1,38 +1,85 @@
 # Site settings
-title: "Rafael Rios Moya"
-email: ganchix@gmail.com
-description: "Rafael Rios Moya Personal Page"
-baseurl: ""
-url: "http://ganchix.github.io/"
-title_description: "A computer science engineer passionate with the technology world. Born in Barcelona, actually lives in Madrid where works in Fintonic like software architect. Loves games, friends, parties and enjoy the life!"
-title_image: "https://www.gravatar.com/avatar/9f067fd6236eb356c210f063cf302b28?s=500&d=mm"
-google_analytics: "UA-99602534-1"
-disqus_account: http-ganchix-github-io
-github_repository: https://github.com/ganchix
-addthis_id: ra-592170e98920269e
-post_limit: 5
-
-# Social usernames/URLs
-twitter_username: ganchix
-github_username:  ganchix
-instagram_username: 
-reddit_username: 
-linkedin_link: https://www.linkedin.com/in/rafael-r%C3%ADos-moya-16053742/
-google_plus_link:
-stackoverflow_link: http://stackoverflow.com/users/2617371/ganchix
-xing_link:
-facebook_link:
-
-# Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+title: Rafael Ríos's CV 
+description: Rafael Rios's CV
+favicon: /assets/img/avatar.JPG
+url: https://ganchix.github.io/
+rss_url: /pages/atom.xml
+google_analytics: UA-63653234-1
 
 # Build settings
 markdown: kramdown
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-permalink: pretty
 exclude: [vendor]
+
+site:
+  github:
+    url: https://github.com/ganchix
+
+# Author settings
+author:
+  name: Rafael Ríos Moya
+  title: Software Architect
+  address: Madrid, Sapin
+  email: ganchix#gmail.com
+  link: http://ddbullfrog.com
+  weibo:
+  github: ganchix
+  linkedin: rafael-ríos-moya-16053742
+  twitter: ganchix
+  gavatar: /resumecard/assets/img/avatar.JPG
+  stackoverflow:
+  stackoverflow: 2617371
+  workHistory:
+    - work1:
+      company: XXX Ltd
+      location: Auckland, New Zealand
+      title: Java Developer
+      started: 2014
+      duration: (2014 - Present)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work2:
+      company: XXX Ltd
+      location: Shanghai, China
+      title: Java Developer
+      started: 2012
+      duration: (2012 - 2014)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work3:
+      company: XXX Ltd
+      location: Shanghai, China
+      title: Java Developer
+      started: 2009
+      duration: (2009 - 2012)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  educationHistory:
+    - education1:
+      organization: XXXXXX University
+      location: Shenyang, China
+      degree: Bachelor
+      major: Software Engineering
+      started: 2005
+      duration: (2005 - 2009)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  languages:
+    - language1:
+      name: Spanish
+      proficiency: Native
+    - language2:
+      name: English
+      proficiency: Professional
+  programmingSkills:
+    - skill1:
+      name: Java/Java EE
+      percentage: 100%
+    - skill2:
+      name: Spring Framework
+      percentage: 90%
+    - skill3:
+      name: Scala
+      percentage: 60%
+    - skill4:
+      name: AngularJS
+      percentage: 70%
+    - skill5:
+      name: Java/Java EE
+      percentage: 90%
