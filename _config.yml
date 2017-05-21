@@ -21,7 +21,7 @@ author:
   title: Software Architect
   address: Madrid, Sapin
   email: ganchix#gmail.com
-  link: http://ddbullfrog.com
+  link:
   weibo:
   github: ganchix
   linkedin: rafael-ríos-moya-16053742
@@ -31,35 +31,35 @@ author:
   stackoverflow: 2617371
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
+      company: Fintonic Servicios Financieros S.L.
+      location: Madrid, Spain
+      title: Software Architect
       started: 2014
       duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description:
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Profile Software Service S.L.
+      location: Madrid, Spain
+      title: Senior Software Engineer
+      started: 2013
+      duration: (2013 - 2014)
+      description:
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
+      company: Gloin S.L.
+      location: Cáceres, Spain
       title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      started: 2011
+      duration: (2011 - 2013)
+      description:
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
+      organization: Extremadura University
+      location: Cáceres, Spain
       degree: Bachelor
       major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      started: 2006
+      duration: (2006 - 2011)
+      description:
   languages:
     - language1:
       name: Spanish
@@ -75,11 +75,11 @@ author:
       name: Spring Framework
       percentage: 90%
     - skill3:
-      name: Scala
-      percentage: 60%
+      name: MongoDB
+      percentage: 80%
     - skill4:
       name: AngularJS
       percentage: 70%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: Scala
+      percentage: 60%
