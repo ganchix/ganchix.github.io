@@ -240,8 +240,8 @@ layout: default
 
                         {% assign repos = site.github.public_repositories | sort: 'stargazers_count' %}
 
-                        {% for repository in repos %}
-                             <li> [{{ repository.name }}]({{ repository.html_url }}) repository.description                            </li>
+                        {% for repository in repos reversed %}
+                             <li> [{{ repository.name }}]({{ repository.html_url }}) repository.description repository.stargazers_count</li>
                         {% endfor %}
 
                     </ul>
