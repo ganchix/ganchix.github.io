@@ -238,11 +238,11 @@ layout: default
                 <div class="grid-block">
                     <ul class="list-unstyled list-skills">
 
+                        {% assign repos = site.github.public_repositories | sort: 'stargazers_count' %}
 
-{% for repository in site.github.public_repositories %}
-                             <li> * [{{ repository.name }}]({{ repository.html_url }})                            </li>
-{% endfor %}
-
+                        {% for repository in repos %}
+                             <li> [{{ repository.name }}]({{ repository.html_url }}) repository.description                            </li>
+                        {% endfor %}
 
                     </ul>
                 </div>
