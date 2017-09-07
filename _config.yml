@@ -30,12 +30,42 @@ author:
   stackoverflow:
   stackoverflow: 2617371
   workHistory:
+       - work02getherBank:
+          company: 2getherbank
+          location: Madrid, Spain
+          title: Software Architect
+          started: 2017
+          duration: (2017 - Present)
+          description: "Design and implementation of 2getherbank's microservice architecture.</br>
+                       Analysis, design and development of software.</br>
+                       Attitudes in the following technologies:</br>
+                       <ul>
+                       <li>Development in Java 1.8.</li>
+                       <li>Frameworks: Spring Cloud, Spring Boot.</li>
+                       <li>IDE: Eclipse STS and Intellij.</li>
+                       <li>Testing: JUnit, Mockito and JMeter.</li>
+                       <li>Application servers: Tomcat.</li>
+                      <li>Containers: Docker and Kubernetes.</li>
+                       <li>Messaging system: RabbitMQ.</li>
+                       <li>Cloud Services: Amazon AWS.</li>
+                       <li>NoSQL: Cassandra and Elasticsearch.</li>
+                       <li>Big Data Tools: Apache Spark, Logstash and Kibana.</li>
+                       <li>Continuous integration and software quality: Jenkins.</li>
+                       <li>Repositories: Apache Maven, Nexus 3 and Git.</li>
+                       <li>Other tools: Web Services (SOA and REST), Javascript and Agile Methodologies.</li>
+                        </ul>"
+     - work0BIGeek:
+        company: BI Geek
+        location: Madrid, Spain
+        title: Expert Geek
+        started: 2017
+        duration: (2017 - Present)
     - work1:
       company: Fintonic Servicios Financieros S.L.
       location: Madrid, Spain
       title: Software Architect
       started: 2014
-      duration: (2014 - Present)
+      duration: (2014 - 2017)
       description: "Development and improvement of Fintonic architecture.</br>
                    Analysis, design and implementation of software solutions.</br>
                    Maintenance and support of software.</br>
